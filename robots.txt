@@ -1,0 +1,876 @@
+
+User-agent: *
+
+
+Disallow: /docs/aguardente-regional/
+
+Disallow: /docs/ais/
+
+Disallow: /docs/alegria-das-criancas/
+
+Disallow: /docs/amendoas/
+
+Disallow: /docs/amendoas-quadradinhos-de-coco/
+
+Disallow: /docs/areias/
+
+Disallow: /docs/babarrua/
+
+Disallow: /docs/bacalhau-com-natas/
+
+Disallow: /docs/bem-me-queres/
+
+Disallow: /docs/bertredes/
+
+Disallow: /docs/bifes-de-lentihas/
+
+Disallow: /docs/biscoitos-de-flocos-de-aveia/
+
+Disallow: /docs/biscoitos-moreninhos/
+
+Disallow: /docs/bolo-para-cha/
+
+Disallow: /docs/bola-de-carnes/
+
+Disallow: /docs/bola-de-agua/
+
+Disallow: /docs/bolachas-de-bom-sucesso/
+
+Disallow: /docs/bolachas-deliciosas/
+
+Disallow: /docs/bolachas-economicas/
+
+Disallow: /docs/bolachinhas-de-fruta/
+
+Disallow: /docs/bolinhos-de-areias/
+
+Disallow: /docs/bolinhos-de-chocolate/
+
+Disallow: /docs/bolinhos-de-noz/
+
+Disallow: /docs/bolinhos-de-noz-ii/
+
+Disallow: /docs/bolo-barreto-preto/
+
+Disallow: /docs/bolo-bom-antigo/
+
+Disallow: /docs/bolo-cafe/
+
+Disallow: /docs/bolo-de-amendoa/
+
+Disallow: /docs/bolo-de-amendoa-ii/
+
+Disallow: /docs/bolo-de-ananas/
+
+Disallow: /docs/bolo-de-ananas-e-cenoura/
+
+Disallow: /docs/bolo-de-ananas-ii/
+
+Disallow: /docs/bolo-de-banana/
+
+Disallow: /docs/bolo-de-banana-ii/
+
+Disallow: /docs/bolo-de-bolacha/
+
+Disallow: /docs/bolo-de-bolacha-ii/
+
+Disallow: /docs/bolo-de-bolacha-iii/
+
+Disallow: /docs/bolo-de-cacau/
+
+Disallow: /docs/bolo-de-cacau-com-bolacha/
+
+Disallow: /docs/bolo-de-cafe/
+
+Disallow: /docs/bolo-de-cenoura/
+
+Disallow: /docs/bolo-de-cenoura-e-ananas/
+
+Disallow: /docs/bolo-de-cenoura-ii/
+
+Disallow: /docs/bolo-de-cerveja/
+
+Disallow: /docs/bolo-de-chantilly/
+
+Disallow: /docs/bolo-de-chocolate/
+
+Disallow: /docs/bolo-de-chocolate-ii/
+
+Disallow: /docs/bolo-de-claras/
+
+Disallow: /docs/bolo-de-coco/
+
+Disallow: /docs/bolo-de-coco-com-gelatina/
+
+Disallow: /docs/bolo-de-coco-em-camadas/
+
+Disallow: /docs/bolo-de-coco-ii/
+
+Disallow: /docs/bolo-de-coco-iii/
+
+Disallow: /docs/bolo-de-frutas/
+
+Disallow: /docs/bolo-de-frutas-ii/
+
+Disallow: /docs/bolo-gelado-de-amendoim/
+
+Disallow: /docs/bolo-de-iogurte/
+
+Disallow: /docs/bolo-laranja/
+
+Disallow: /docs/bolo-de-laranja/
+
+Disallow: /docs/bolo-de-manteiga/
+
+Disallow: /docs/bolo-de-mel-rico/
+
+Disallow: /docs/bolo-de-mel-rico-ii/
+
+Disallow: /docs/bolo-de-mel-rico-iii/
+
+Disallow: /docs/bolo-de-marmore/
+
+Disallow: /docs/bolo-de-nata/
+
+Disallow: /docs/bolo-de-natas-com-mel/
+
+Disallow: /docs/bolo-de-saboia/
+
+Disallow: /docs/bolo-de-um-ovo/
+
+Disallow: /docs/bolo-de-agua/
+
+Disallow: /docs/bolo-do-caco/
+
+Disallow: /docs/bolo-do-caco-ii/
+
+Disallow: /docs/bolo-escuro/
+
+Disallow: /docs/bolo-familia/
+
+Disallow: /docs/bolo-formigueiro/
+
+Disallow: /docs/bolo-griffon-chocolate/
+
+Disallow: /docs/bolo-humido/
+
+Disallow: /docs/bolo-ingles/
+
+Disallow: /docs/bolo-majestoso/
+
+Disallow: /docs/bolo-milu/
+
+Disallow: /docs/bolo-mulato/
+
+Disallow: /docs/bolo-musselino/
+
+Disallow: /docs/bolo-noel/
+
+Disallow: /docs/bolo-ou-doces-miudos-russos/
+
+Disallow: /docs/bolo-pena/
+
+Disallow: /docs/bolo-podre/
+
+Disallow: /docs/bolo-poema/
+
+Disallow: /docs/bolo-prata/
+
+Disallow: /docs/bolo-preto/
+
+Disallow: /docs/bolo-preto-da-tita/
+
+Disallow: /docs/bolo-pudim/
+
+Disallow: /docs/bolo-pao-torrado/
+
+Disallow: /docs/bolo-queque-de-mel/
+
+Disallow: /docs/bolo-rubro/
+
+Disallow: /docs/bolo-russo/
+
+Disallow: /docs/bolo-russo-ii/
+
+Disallow: /docs/bolo-salame-milu/
+
+Disallow: /docs/bolo-surpresa/
+
+Disallow: /docs/brigadeiros/
+
+Disallow: /docs/broas-de-amendoa/
+
+Disallow: /docs/broas-de-coco/
+
+Disallow: /docs/broas-de-coco-celeste/
+
+Disallow: /docs/broas-de-flocos-de-aveia/
+
+Disallow: /docs/broas-de-manteiga/
+
+Disallow: /docs/broas-de-mel/
+
+Disallow: /docs/broas-de-mel-ii/
+
+Disallow: /docs/broas-de-mel-iii/
+
+Disallow: /docs/broas-de-mel-iv/
+
+Disallow: /docs/broasdemeltiapaula/
+
+Disallow: /docs/broas-fofas/
+
+Disallow: /docs/cakes/
+
+Disallow: /docs/caril-vermelho-tailandes/
+
+Disallow: /docs/carne-de-vinha-dalhos/
+
+Disallow: /docs/casadinhos/
+
+Disallow: /docs/cavaquinhas/
+
+Disallow: /docs/chamucas/
+
+Disallow: /docs/coconut-lentil-curry-with-greens/
+
+Disallow: /docs/coisa-boa/
+
+Disallow: /docs/compota-de-laranja/
+
+Disallow: /docs/croquetes-de-lentilhas/
+
+Disallow: /docs/curried-red-lentil-and-pumpkin-soup/
+
+Disallow: /docs/cuscuz/
+
+Disallow: /docs/delicia-das-delicias/
+
+Disallow: /docs/empadao-de-carne/
+
+Disallow: /docs/espada-de-salmao/
+
+Disallow: /docs/especiones/
+
+Disallow: /docs/fartes/
+
+Disallow: /docs/filetes-de-espada-no-forno-com-cenoura/
+
+Disallow: /docs/galatinhos/
+
+Disallow: /docs/garam-masala/
+
+Disallow: /docs/gelado-de-amora/
+
+Disallow: /docs/gelado-de-natas/
+
+Disallow: /docs/gelado-de-natas-com-chocolate/
+
+Disallow: /docs/geleia-de-cores/
+
+Disallow: /docs/geleia-de-laranja/
+
+Disallow: /docs/geleia-de-pessegos/
+
+Disallow: /docs/genebra/
+
+Disallow: /docs/gomos-de-laranja/
+
+Disallow: /docs/indian-red-lentil-dal/
+
+Disallow: /docs/japonezas/
+
+Disallow: /docs/laranjinhas-de-cenoura/
+
+Disallow: /docs/lentil-and-egg-stew/
+
+Disallow: /docs/lentil-soup/
+
+Disallow: /docs/lentilhas-cremosas-com-tomate-e-espinafres/
+
+Disallow: /docs/licor-de-anis/
+
+Disallow: /docs/licor-de-anona/
+
+Disallow: /docs/licor-de-cafe/
+
+Disallow: /docs/licor-de-caramelo/
+
+Disallow: /docs/licor-de-ginja/
+
+Disallow: /docs/licor-de-jandeia/
+
+Disallow: /docs/licor-de-leite/
+
+Disallow: /docs/licor-de-leite-ii/
+
+Disallow: /docs/licor-de-maracuja/
+
+Disallow: /docs/licor-de-mel/
+
+Disallow: /docs/licor-de-pitanga/
+
+Disallow: /docs/licor-de-tangerina/
+
+Disallow: /docs/licor-de-tangerina-ii/
+
+Disallow: /docs/licor-tutti-frutti/
+
+Disallow: /docs/licor-de-vinho/
+
+Disallow: /docs/licor-de-whisky/
+
+Disallow: /docs/licor-eduardinho/
+
+Disallow: /docs/licor-tim-tam-tom/
+
+Disallow: /docs/ligeiros/
+
+Disallow: /docs/malassadas/
+
+Disallow: /docs/malassadas-ii/
+
+Disallow: /docs/malassadas-iii/
+
+Disallow: /docs/margaridas/
+
+Disallow: /docs/maria-luisas/
+
+Disallow: /docs/massa-para-pizza/
+
+Disallow: /docs/milho-frito/
+
+Disallow: /docs/milho-frito-ii/
+
+Disallow: /docs/minestrone/
+
+Disallow: /docs/morangos-parfait/
+
+Disallow: /docs/mulatos-crespos/
+
+Disallow: /docs/mulatos-de-torres/
+
+Disallow: /docs/no-knead-focaccia-rolls/
+
+Disallow: /docs/ovos-recheados/
+
+Disallow: /docs/palitos-de-cerveja/
+
+Disallow: /docs/palitos-economicos/
+
+Disallow: /docs/pasteis-de-belem/
+
+Disallow: /docs/pasteis-de-feijao/
+
+Disallow: /docs/pasteis-de-nata/
+
+Disallow: /docs/perogas/
+
+Disallow: /docs/picado/
+
+Disallow: /docs/pickles/
+
+Disallow: /docs/pie-crust/
+
+Disallow: /docs/pikles/
+
+Disallow: /docs/pinto-posole/
+
+Disallow: /docs/poncha/
+
+Disallow: /docs/potato-black-bean-burgers/
+
+Disallow: /docs/pudim-crocante/
+
+Disallow: /docs/pudim-de-amendoa/
+
+Disallow: /docs/pudim-de-ananas/
+
+Disallow: /docs/pudim-de-banana/
+
+Disallow: /docs/pudim-de-batata/
+
+Disallow: /docs/pudim-de-batata-ii/
+
+Disallow: /docs/pudim-de-bolacha/
+
+Disallow: /docs/pudim-de-bolacha-quadrada/
+
+Disallow: /docs/pudim-de-cafe/
+
+Disallow: /docs/pudim-de-canela/
+
+Disallow: /docs/pudim-de-caroco-de-nespera/
+
+Disallow: /docs/pudim-de-cenoura/
+
+Disallow: /docs/pudim-de-claras-com-frutos/
+
+Disallow: /docs/pudim-de-coco/
+
+Disallow: /docs/pudim-de-coco-ii/
+
+Disallow: /docs/pudim-flan/
+
+Disallow: /docs/pudim-de-frango/
+
+Disallow: /docs/pudim-de-gelatina-de-laranja/
+
+Disallow: /docs/pudim-de-iogurte/
+
+Disallow: /docs/pudim-de-laranja/
+
+Disallow: /docs/pudim-de-leite-condensado/
+
+Disallow: /docs/pudim-de-ovos/
+
+Disallow: /docs/pudim-de-palitos/
+
+Disallow: /docs/pudim-de-palitos-com-morangos-ou-pessego/
+
+Disallow: /docs/pudim-de-pao/
+
+Disallow: /docs/pudim-de-pao-ii/
+
+Disallow: /docs/pudim-de-pao-iii/
+
+Disallow: /docs/pudim-de-requeijao/
+
+Disallow: /docs/pudim-de-requeijao-ii/
+
+Disallow: /docs/pudim-de-requeijao-iii/
+
+Disallow: /docs/pudim-de-veludo/
+
+Disallow: /docs/pudim-de-veludo-ii/
+
+Disallow: /docs/pudim-delicia/
+
+Disallow: /docs/pudim-gelado/
+
+Disallow: /docs/pudim-gelado-ii/
+
+Disallow: /docs/pudim-manuela/
+
+Disallow: /docs/pao-de-casa-ou-pao-de-familia/
+
+Disallow: /docs/pao-de-lo/
+
+Disallow: /docs/pao-de-lo-farinha-de-batata/
+
+Disallow: /docs/quadradinhos-de-laranja/
+
+Disallow: /docs/quadrados/
+
+Disallow: /docs/quadrados-de-chocolate/
+
+Disallow: /docs/queijadas/
+
+Disallow: /docs/queijadas-da-madeira-modesto/
+
+Disallow: /docs/queques-de-amendoa/
+
+Disallow: /docs/queques-de-nata/
+
+Disallow: /docs/quidins/
+
+Disallow: /docs/raivas/
+
+Disallow: /docs/receita-de-gelado/
+
+Disallow: /docs/recheio-de-ananas/
+
+Disallow: /docs/red-curry/
+
+Disallow: /docs/red-lentil-chorizo-soup/
+
+Disallow: /docs/red-lentil-curry-ethiopian-lentils/
+
+Disallow: /docs/rochedos-de-amendoa/
+
+Disallow: /docs/rosquilhas/
+
+Disallow: /docs/rosquilhas-ii/
+
+Disallow: /docs/salame-de-chocolate/
+
+Disallow: /docs/salame-de-chocolate-ii/
+
+Disallow: /docs/scones/
+
+Disallow: /docs/sogras/
+
+Disallow: /docs/sonhos/
+
+Disallow: /docs/sonhos-ii/
+
+Disallow: /docs/sopa-da-pedra/
+
+Disallow: /docs/sopa-de-tomate-e-cebola/
+
+Disallow: /docs/sorvete-de-ananas/
+
+Disallow: /docs/sorvete-de-baunilha/
+
+Disallow: /docs/sorvete-de-chocolate/
+
+Disallow: /docs/sorvete-de-laranja/
+
+Disallow: /docs/sorvete-de-limao/
+
+Disallow: /docs/sorvete-de-morango/
+
+Disallow: /docs/sourdough-coffee-cake/
+
+Disallow: /docs/sumo-de-maracuja/
+
+Disallow: /docs/sumo-de-maracuja-ii/
+
+Disallow: /docs/tarte-de-leite-condensado/
+
+Disallow: /docs/tarte-de-leite-condensado-ii/
+
+Disallow: /docs/tarte-de-queijo-fresco-monique/
+
+Disallow: /docs/tarte-de-requeijao-sem-base/
+
+Disallow: /docs/torta-de-cenoura/
+
+Disallow: /docs/torta-de-laranja/
+
+Disallow: /docs/vegetarian-chili/
+
+Disallow: /categories/acompanhamento/
+
+Disallow: /ingredients/aguardente/
+
+Disallow: /categories/aguardente/
+
+Disallow: /ingredients/aguardente-bagaceira/
+
+Disallow: /ingredients/aguardente-branca-de-cana/
+
+Disallow: /ingredients/alho/
+
+Disallow: /ingredients/ameixa/
+
+Disallow: /ingredients/ameixa-preta/
+
+Disallow: /ingredients/amendoim/
+
+Disallow: /ingredients/amendoa/
+
+Disallow: /ingredients/amendoas/
+
+Disallow: /ingredients/ananas/
+
+Disallow: /ingredients/anona/
+
+Disallow: /ingredients/aveia/
+
+Disallow: /ingredients/azeite/
+
+Disallow: /ingredients/acucar/
+
+Disallow: /ingredients/acucar-pile/
+
+Disallow: /ingredients/banana/
+
+Disallow: /ingredients/bananas/
+
+Disallow: /ingredients/banha/
+
+Disallow: /ingredients/banha-de-porco/
+
+Disallow: /ingredients/batata/
+
+Disallow: /ingredients/batata-doce/
+
+Disallow: /ingredients/baunilha/
+
+Disallow: /ingredients/benzoato-de-sodio/
+
+Disallow: /ingredients/bicarbonato-de-soda/
+
+Disallow: /ingredients/bicarbonato-de-sodio/
+
+Disallow: /categories/biscoitos/
+
+Disallow: /categories/bola/
+
+Disallow: /ingredients/bolacha-de-trigo/
+
+Disallow: /ingredients/bolacha-maria/
+
+Disallow: /categories/bolo/
+
+Disallow: /categories/broas/
+
+Disallow: /ingredients/cacau/
+
+Disallow: /ingredients/cafe/
+
+Disallow: /ingredients/canela/
+
+Disallow: /ingredients/caramelo-liquido/
+
+Disallow: /ingredients/caramelos-de-nata/
+
+Disallow: /categories/caril/
+
+Disallow: /ingredients/caril/
+
+Disallow: /categories/carne/
+
+Disallow: /ingredients/care/
+
+Disallow: /categories/
+
+Disallow: /ingredients/cebola/
+
+Disallow: /ingredients/cenoura/
+
+Disallow: /ingredients/cereja/
+
+Disallow: /ingredients/cerveja/
+
+Disallow: /ingredients/chocolate/
+
+Disallow: /ingredients/cha-preto/
+
+Disallow: /ingredients/cida/
+
+Disallow: /ingredients/cidra/
+
+Disallow: /categories/compota/
+
+Disallow: /categories/conserva/
+
+Disallow: /ingredients/couve-flor/
+
+Disallow: /ingredients/cravinho/
+
+Disallow: /ingredients/cravo-acha/
+
+Disallow: /ingredients/cravo-maranhao/
+
+Disallow: /ingredients/custard/
+
+Disallow: /ingredients/coco/
+
+Disallow: /categories/doces/
+
+Disallow: /docs/
+
+Disallow: /categories/entradas/
+
+Disallow: /ingredients/erva-doce/
+
+Disallow: /ingredients/essencia-de-anis/
+
+Disallow: /ingredients/essencia-de-baunilha/
+
+Disallow: /ingredients/essencia-de-caramelo/
+
+Disallow: /ingredients/essencia-de-tutti-frutti/
+
+Disallow: /ingredients/farinha/
+
+Disallow: /ingredients/farinha-de-batata/
+
+Disallow: /ingredients/farinha-de-trigo/
+
+Disallow: /ingredients/feijao/
+
+Disallow: /ingredients/feijao-verde/
+
+Disallow: /ingredients/fermento/
+
+Disallow: /ingredients/fermento-ingles/
+
+Disallow: /ingredients/fermento-portugues/
+
+Disallow: /ingredients/fermento-po-royal/
+
+Disallow: /ingredients/fruta-cristalizada/
+
+Disallow: /ingredients/gelatina/
+
+Disallow: /categories/geleia/
+
+Disallow: /ingredients/ginja/
+
+Disallow: /print/
+
+Disallow: /ingredients/
+
+Disallow: /ingredients/iogurte/
+
+Disallow: /ingredients/laranja/
+
+Disallow: /ingredients/laranjas/
+
+Disallow: /ingredients/legumes/
+
+Disallow: /ingredients/leite/
+
+Disallow: /ingredients/leite-condensado/
+
+Disallow: /ingredients/leite-condesado/
+
+Disallow: /ingredients/leite-de-vaca/
+
+Disallow: /ingredients/lentilhas/
+
+Disallow: /categories/licor/
+
+Disallow: /ingredients/licor-de-cacau/
+
+Disallow: /ingredients/licor-de-cafe/
+
+Disallow: /ingredients/limao/
+
+Disallow: /ingredients/louro/
+
+Disallow: /ingredients/maionese/
+
+Disallow: /ingredients/maizena/
+
+Disallow: /ingredients/malagueta/
+
+Disallow: /ingredients/manteiga/
+
+Disallow: /ingredients/maracuja/
+
+Disallow: /ingredients/maracujas/
+
+Disallow: /ingredients/maranhao/
+
+Disallow: /ingredients/margarina/
+
+Disallow: /categories/massa/
+
+Disallow: /categories/massa-frita/
+
+Disallow: /ingredients/mel-de-abelha/
+
+Disallow: /ingredients/mel-de-cana/
+
+Disallow: /ingredients/morango/
+
+Disallow: /ingredients/mostarda/
+
+Disallow: /ingredients/nata/
+
+Disallow: /ingredients/natas/
+
+Disallow: /ingredients/noz/
+
+Disallow: /ingredients/noz-moscada/
+
+Disallow: /ingredients/nozes/
+
+Disallow: /ingredients/nesperas/
+
+Disallow: /offline/
+
+Disallow: /ingredients/ovo/
+
+Disallow: /ingredients/ovos/
+
+Disallow: /ingredients/palitos-de-la-reine/
+
+Disallow: /ingredients/palitos-la-reine/
+
+Disallow: /ingredients/passa/
+
+Disallow: /ingredients/passas/
+
+Disallow: /categories/pastelaria/
+
+Disallow: /categories/peixe/
+
+Disallow: /ingredients/pepinos/
+
+Disallow: /categories/picles/
+
+Disallow: /ingredients/pimenta/
+
+Disallow: /ingredients/pimenta-preta/
+
+Disallow: /ingredients/pimento/
+
+Disallow: /ingredients/pimpinela/
+
+Disallow: /ingredients/pitanga/
+
+Disallow: /ingredients/porco/
+
+Disallow: /categories/pudim/
+
+Disallow: /ingredients/pudim-de-mouse-de-chocolate/
+
+Disallow: /categories/pao/
+
+Disallow: /ingredients/pao/
+
+Disallow: /ingredients/queijo-fresco/
+
+Disallow: /
+
+Disallow: /categories/recheio/
+
+Disallow: /ingredients/requeijao/
+
+Disallow: /ingredients/sal/
+
+Disallow: /ingredients/semilhas/
+
+Disallow: /categories/sopa/
+
+Disallow: /categories/sorvete-e-gelado/
+
+Disallow: /categories/sumo/
+
+Disallow: /tags/
+
+Disallow: /ingredients/tangerinas/
+
+Disallow: /categories/tarte/
+
+Disallow: /categories/temperos/
+
+Disallow: /ingredients/tomate/
+
+Disallow: /categories/torta/
+
+Disallow: /ingredients/tuti-fruti/
+
+Disallow: /ingredients/tamaras/
+
+Disallow: /categories/vegetariano/
+
+Disallow: /ingredients/vinagre/
+
+Disallow: /ingredients/vinagre-de-vinho-branco/
+
+Disallow: /ingredients/vinho/
+
+Disallow: /ingredients/vinho-branco/
+
+Disallow: /ingredients/vinho-do-porto/
+
+Disallow: /ingredients/vinho-madeira/
+
+Disallow: /ingredients/vinho-tratado/
+
+Disallow: /ingredients/whisky/
+
+Disallow: /ingredients/agua/
+
+Disallow: /ingredients/alcool/
+
+Disallow: /ingredients/oleo/
+
+Disallow: /ingredients/oleo-de-girassol/
+
