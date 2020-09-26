@@ -452,6 +452,8 @@ Disallow: /docs/pudim-gelado-ii/
 
 Disallow: /docs/pudim-manuela/
 
+Disallow: /docs/pao-de-banana-seis-bananas/
+
 Disallow: /docs/pao-de-casa-ou-pao-de-familia/
 
 Disallow: /docs/pao-de-lo/
@@ -616,9 +618,9 @@ Disallow: /ingredients/caramelo-liquido/
 
 Disallow: /ingredients/caramelos-de-nata/
 
-Disallow: /categories/caril/
-
 Disallow: /ingredients/caril/
+
+Disallow: /categories/caril/
 
 Disallow: /categories/carne/
 
@@ -810,9 +812,9 @@ Disallow: /categories/pudim/
 
 Disallow: /ingredients/pudim-de-mouse-de-chocolate/
 
-Disallow: /categories/pao/
-
 Disallow: /ingredients/pao/
+
+Disallow: /categories/pao/
 
 Disallow: /ingredients/queijo-fresco/
 
