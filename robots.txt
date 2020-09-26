@@ -68,6 +68,8 @@ Disallow: /docs/bolo-de-ananas-ii/
 
 Disallow: /docs/bolo-de-banana/
 
+Disallow: /docs/pao-de-banana-seis-bananas/
+
 Disallow: /docs/bolo-de-banana-ii/
 
 Disallow: /docs/bolo-de-bolacha/
@@ -452,8 +454,6 @@ Disallow: /docs/pudim-gelado-ii/
 
 Disallow: /docs/pudim-manuela/
 
-Disallow: /docs/pao-de-banana-seis-bananas/
-
 Disallow: /docs/pao-de-casa-ou-pao-de-familia/
 
 Disallow: /docs/pao-de-lo/
@@ -544,9 +544,9 @@ Disallow: /docs/vegetarian-chili/
 
 Disallow: /categories/acompanhamento/
 
-Disallow: /ingredients/aguardente/
-
 Disallow: /categories/aguardente/
+
+Disallow: /ingredients/aguardente/
 
 Disallow: /ingredients/aguardente-bagaceira/
 
