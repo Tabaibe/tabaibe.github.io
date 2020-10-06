@@ -536,6 +536,8 @@ Disallow: /docs/tarte-de-queijo-fresco-monique/
 
 Disallow: /docs/tarte-de-requeijao-sem-base/
 
+Disallow: /docs/thai-green-chicken-curry/
+
 Disallow: /docs/torta-de-cenoura/
 
 Disallow: /docs/torta-de-laranja/
@@ -544,9 +546,9 @@ Disallow: /docs/vegetarian-chili/
 
 Disallow: /categories/acompanhamento/
 
-Disallow: /categories/aguardente/
-
 Disallow: /ingredients/aguardente/
+
+Disallow: /categories/aguardente/
 
 Disallow: /ingredients/aguardente-bagaceira/
 
@@ -618,9 +620,9 @@ Disallow: /ingredients/caramelo-liquido/
 
 Disallow: /ingredients/caramelos-de-nata/
 
-Disallow: /ingredients/caril/
-
 Disallow: /categories/caril/
+
+Disallow: /ingredients/caril/
 
 Disallow: /categories/carne/
 
@@ -812,9 +814,9 @@ Disallow: /categories/pudim/
 
 Disallow: /ingredients/pudim-de-mouse-de-chocolate/
 
-Disallow: /ingredients/pao/
-
 Disallow: /categories/pao/
+
+Disallow: /ingredients/pao/
 
 Disallow: /ingredients/queijo-fresco/
 
