@@ -14,6 +14,8 @@ Disallow: /docs/amendoas-quadradinhos-de-coco/
 
 Disallow: /docs/areias/
 
+Disallow: /docs/acorda/
+
 Disallow: /docs/babarrua/
 
 Disallow: /docs/bacalhau-com-natas/
@@ -510,6 +512,8 @@ Disallow: /docs/sopa-da-pedra/
 
 Disallow: /docs/sopa-de-tomate-e-cebola/
 
+Disallow: /docs/sopa-de-tomate-e-cebola-ii/
+
 Disallow: /docs/sorvete-de-ananas/
 
 Disallow: /docs/sorvete-de-baunilha/
@@ -546,9 +550,9 @@ Disallow: /docs/vegetarian-chili/
 
 Disallow: /categories/acompanhamento/
 
-Disallow: /ingredients/aguardente/
-
 Disallow: /categories/aguardente/
+
+Disallow: /ingredients/aguardente/
 
 Disallow: /ingredients/aguardente-bagaceira/
 
@@ -620,9 +624,9 @@ Disallow: /ingredients/caramelo-liquido/
 
 Disallow: /ingredients/caramelos-de-nata/
 
-Disallow: /categories/caril/
-
 Disallow: /ingredients/caril/
+
+Disallow: /categories/caril/
 
 Disallow: /categories/carne/
 
