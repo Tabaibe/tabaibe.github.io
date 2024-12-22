@@ -230,6 +230,8 @@ Disallow: /docs/caril-vermelho-tailandes/
 
 Disallow: /docs/carne-de-vinha-dalhos/
 
+Disallow: /docs/carne-vinho-alhos/
+
 Disallow: /docs/casadinhos/
 
 Disallow: /docs/cavaquinhas/
