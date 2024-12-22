@@ -2,6 +2,8 @@
 User-agent: *
 
 
+Disallow: /docs/acorda/
+
 Disallow: /docs/aguardente-regional/
 
 Disallow: /docs/ais/
@@ -13,8 +15,6 @@ Disallow: /docs/amendoas/
 Disallow: /docs/amendoas-quadradinhos-de-coco/
 
 Disallow: /docs/areias/
-
-Disallow: /docs/acorda/
 
 Disallow: /docs/babarrua/
 
@@ -32,9 +32,9 @@ Disallow: /docs/biscoitos-moreninhos/
 
 Disallow: /docs/bolo-para-cha/
 
-Disallow: /docs/bola-de-carnes/
-
 Disallow: /docs/bola-de-agua/
+
+Disallow: /docs/bola-de-carnes/
 
 Disallow: /docs/bolachas-de-bom-sucesso/
 
@@ -57,6 +57,8 @@ Disallow: /docs/bolo-barreto-preto/
 Disallow: /docs/bolo-bom-antigo/
 
 Disallow: /docs/bolo-cafe/
+
+Disallow: /docs/bolo-de-agua/
 
 Disallow: /docs/bolo-de-amendoa/
 
@@ -126,13 +128,13 @@ Disallow: /docs/bolo-de-laranja/
 
 Disallow: /docs/bolo-de-manteiga/
 
+Disallow: /docs/bolo-de-marmore/
+
 Disallow: /docs/bolo-de-mel-rico/
 
 Disallow: /docs/bolo-de-mel-rico-ii/
 
 Disallow: /docs/bolo-de-mel-rico-iii/
-
-Disallow: /docs/bolo-de-marmore/
 
 Disallow: /docs/bolo-de-nata/
 
@@ -141,8 +143,6 @@ Disallow: /docs/bolo-de-natas-com-mel/
 Disallow: /docs/bolo-de-saboia/
 
 Disallow: /docs/bolo-de-um-ovo/
-
-Disallow: /docs/bolo-de-agua/
 
 Disallow: /docs/bolo-do-caco/
 
@@ -172,6 +172,8 @@ Disallow: /docs/bolo-noel/
 
 Disallow: /docs/bolo-ou-doces-miudos-russos/
 
+Disallow: /docs/bolo-pao-torrado/
+
 Disallow: /docs/bolo-pena/
 
 Disallow: /docs/bolo-podre/
@@ -185,8 +187,6 @@ Disallow: /docs/bolo-preto/
 Disallow: /docs/bolo-preto-da-tita/
 
 Disallow: /docs/bolo-pudim/
-
-Disallow: /docs/bolo-pao-torrado/
 
 Disallow: /docs/bolo-queque-de-mel/
 
@@ -362,6 +362,12 @@ Disallow: /docs/palitos-de-cerveja/
 
 Disallow: /docs/palitos-economicos/
 
+Disallow: /docs/pao-de-casa-ou-pao-de-familia/
+
+Disallow: /docs/pao-de-lo/
+
+Disallow: /docs/pao-de-lo-farinha-de-batata/
+
 Disallow: /docs/pasteis-de-belem/
 
 Disallow: /docs/pasteis-de-feijao/
@@ -456,12 +462,6 @@ Disallow: /docs/pudim-gelado-ii/
 
 Disallow: /docs/pudim-manuela/
 
-Disallow: /docs/pao-de-casa-ou-pao-de-familia/
-
-Disallow: /docs/pao-de-lo/
-
-Disallow: /docs/pao-de-lo-farinha-de-batata/
-
 Disallow: /docs/quadradinhos-de-laranja/
 
 Disallow: /docs/quadrados/
@@ -550,13 +550,21 @@ Disallow: /docs/vegetarian-chili/
 
 Disallow: /categories/acompanhamento/
 
-Disallow: /categories/aguardente/
+Disallow: /ingredients/acucar/
+
+Disallow: /ingredients/acucar-pile/
+
+Disallow: /ingredients/agua/
 
 Disallow: /ingredients/aguardente/
+
+Disallow: /categories/aguardente/
 
 Disallow: /ingredients/aguardente-bagaceira/
 
 Disallow: /ingredients/aguardente-branca-de-cana/
+
+Disallow: /ingredients/alcool/
 
 Disallow: /ingredients/alho/
 
@@ -564,11 +572,11 @@ Disallow: /ingredients/ameixa/
 
 Disallow: /ingredients/ameixa-preta/
 
-Disallow: /ingredients/amendoim/
-
 Disallow: /ingredients/amendoa/
 
 Disallow: /ingredients/amendoas/
+
+Disallow: /ingredients/amendoim/
 
 Disallow: /ingredients/ananas/
 
@@ -577,10 +585,6 @@ Disallow: /ingredients/anona/
 Disallow: /ingredients/aveia/
 
 Disallow: /ingredients/azeite/
-
-Disallow: /ingredients/acucar/
-
-Disallow: /ingredients/acucar-pile/
 
 Disallow: /ingredients/banana/
 
@@ -624,13 +628,13 @@ Disallow: /ingredients/caramelo-liquido/
 
 Disallow: /ingredients/caramelos-de-nata/
 
+Disallow: /ingredients/care/
+
 Disallow: /ingredients/caril/
 
 Disallow: /categories/caril/
 
 Disallow: /categories/carne/
-
-Disallow: /ingredients/care/
 
 Disallow: /categories/
 
@@ -642,13 +646,15 @@ Disallow: /ingredients/cereja/
 
 Disallow: /ingredients/cerveja/
 
-Disallow: /ingredients/chocolate/
-
 Disallow: /ingredients/cha-preto/
+
+Disallow: /ingredients/chocolate/
 
 Disallow: /ingredients/cida/
 
 Disallow: /ingredients/cidra/
+
+Disallow: /ingredients/coco/
 
 Disallow: /categories/compota/
 
@@ -663,8 +669,6 @@ Disallow: /ingredients/cravo-acha/
 Disallow: /ingredients/cravo-maranhao/
 
 Disallow: /ingredients/custard/
-
-Disallow: /ingredients/coco/
 
 Disallow: /categories/doces/
 
@@ -696,9 +700,9 @@ Disallow: /ingredients/fermento/
 
 Disallow: /ingredients/fermento-ingles/
 
-Disallow: /ingredients/fermento-portugues/
-
 Disallow: /ingredients/fermento-po-royal/
+
+Disallow: /ingredients/fermento-portugues/
 
 Disallow: /ingredients/fruta-cristalizada/
 
@@ -772,13 +776,17 @@ Disallow: /ingredients/nata/
 
 Disallow: /ingredients/natas/
 
+Disallow: /ingredients/nesperas/
+
 Disallow: /ingredients/noz/
 
 Disallow: /ingredients/noz-moscada/
 
 Disallow: /ingredients/nozes/
 
-Disallow: /ingredients/nesperas/
+Disallow: /ingredients/oleo/
+
+Disallow: /ingredients/oleo-de-girassol/
 
 Disallow: /offline/
 
@@ -789,6 +797,10 @@ Disallow: /ingredients/ovos/
 Disallow: /ingredients/palitos-de-la-reine/
 
 Disallow: /ingredients/palitos-la-reine/
+
+Disallow: /ingredients/pao/
+
+Disallow: /categories/pao/
 
 Disallow: /ingredients/passa/
 
@@ -818,10 +830,6 @@ Disallow: /categories/pudim/
 
 Disallow: /ingredients/pudim-de-mouse-de-chocolate/
 
-Disallow: /categories/pao/
-
-Disallow: /ingredients/pao/
-
 Disallow: /ingredients/queijo-fresco/
 
 Disallow: /
@@ -842,6 +850,8 @@ Disallow: /categories/sumo/
 
 Disallow: /tags/
 
+Disallow: /ingredients/tamaras/
+
 Disallow: /ingredients/tangerinas/
 
 Disallow: /categories/tarte/
@@ -853,8 +863,6 @@ Disallow: /ingredients/tomate/
 Disallow: /categories/torta/
 
 Disallow: /ingredients/tuti-fruti/
-
-Disallow: /ingredients/tamaras/
 
 Disallow: /categories/vegetariano/
 
@@ -873,12 +881,4 @@ Disallow: /ingredients/vinho-madeira/
 Disallow: /ingredients/vinho-tratado/
 
 Disallow: /ingredients/whisky/
-
-Disallow: /ingredients/agua/
-
-Disallow: /ingredients/alcool/
-
-Disallow: /ingredients/oleo/
-
-Disallow: /ingredients/oleo-de-girassol/
 
