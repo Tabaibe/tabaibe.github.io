@@ -1,4 +1,4 @@
-const CACHE_VERSION = 24;
+const CACHE_VERSION = 22;
 
 const BASE_CACHE_FILES = [
     '/book.min.css',
