@@ -1,2 +1,4 @@
-/.idea/*.xml
-/.idea/*.iml
+/workspace.xml
+/vcs.xml
+/modules.xml
+/misc.xml
