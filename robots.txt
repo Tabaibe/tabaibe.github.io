@@ -138,6 +138,8 @@ Disallow: /docs/bolo-de-mel-rico-iii/
 
 Disallow: /docs/bolo-de-nata/
 
+Disallow: /docs/bolo-de-natas-teleculinaria/
+
 Disallow: /docs/bolo-de-natas-com-mel/
 
 Disallow: /docs/bolo-de-saboia/
