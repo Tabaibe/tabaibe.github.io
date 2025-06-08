@@ -1,44 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Café on Receitas</title><link>/ingredients/cafe/</link><description>Recent content in Café on Receitas</description><generator>Hugo -- gohugo.io</generator><language>pt</language><atom:link href="/ingredients/cafe/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo Barreto Preto</title><link>/docs/bolo-barreto-preto/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-barreto-preto/</guid><description>Ingredientes 1 chávena grande de manteiga
-2 e 1/2 chávenas de farinha
-2 e 1/2 chávenas de açúcar
-2 dl de mel de cana
-2 ovos
-1/2 chávena de café
-1/4 de chávena de leite (frio)
-1 colher de chá de Baking Powder
-1 colher de chá de canela
-1/2 colher de chá de noz moscada
-1 chávena de passas cidra e nozes</description></item><item><title>Bolo Café</title><link>/docs/bolo-cafe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-cafe/</guid><description>Ingredientes 2 chávenas de Farinha
-2 chávenas de Açúcar
-1 pacote de Margarina
-2 colheres de chá de pó Royal
-1 chávena de café
-2 colheres de Cacau
-4 ovos
-Modo de Fazer Claras em castelo, deitam-se no fim.</description></item><item><title>Bolo de Gelado de Amendoim</title><link>/docs/bolo-gelado-de-amendoim/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-gelado-de-amendoim/</guid><description>Ingredientes 400 g de Amendoim
-250 g de Açúcar
-125 g de manteiga s/sal
-250 g de Natas
-8 gemas de ovos
-6 claras
-2 colheres de fermento em pó
-1/4 de colher de chá de sal fino
-café forte açucarado c/leite
-Modo de fazer Massa Torram-se os amendoins e depois esfrega-se num pano para se libertarem das peles e passa-se 200 g de amendoim na máquina os outros 200 g parte-se aos bocadinhos.</description></item><item><title>Licor de Café</title><link>/docs/licor-de-cafe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/licor-de-cafe/</guid><description>Ingredientes (para 2 l de licor)
-9 dl de água
-250 g de açúcar pilé
-1 chávena (de café) de café em pó
-5 dl de aguardente bagaceira
-Modo de fazer Prepare com 4 dl de água e o pó de café uma infusão muito forte. Ferva a restante água e o açúcar até a calda formar ponto de xarope. Junte a calda de açúcar arrefecida à infusão, adicione a aguardente, guarde durate 15 a 20 dias bem tapado e, decorrido, este tempo, coe e engarrafe.</description></item><item><title>Pudim Crocante</title><link>/docs/pudim-crocante/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pudim-crocante/</guid><description>Ingredientes Pudim 1 lata de leite Condensado
-2 colheres de sopa de nescafé
-2 vezes a medida da lata de leite condensado de leite
-3 Ovos
-1 colher de sopa de licor de café Caramelo 1/2 chávena de chá de água
-1/2 chávena de chá de Açúcar Crocante 1 chávena de chá de Açúcar
-1 colher sopa de Manteiga
-1 colher de chá de Amêndoa Modo de fazer Prepare a calda derretendo o açúcar em lume brando.</description></item><item><title>Pudim de Café</title><link>/docs/pudim-de-cafe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pudim-de-cafe/</guid><description>Ingredientes 2 latas de leite Condensado
-1 l de Natas
-7 folhas e Gelatina
-6 colheres sobremesa de café instantaneo mocambo
-Modo de fazer Bater bem as natas, juntar o leite condensado.
-Demolhar a gelatina 10 minutos Derreter em meia chávena de água bem quente bem como o café e juntar ao preparado anterior.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Café on Receitas</title><link>/ingredients/cafe/</link><description>Recent content in Café on Receitas</description><generator>Hugo</generator><language>pt</language><atom:link href="/ingredients/cafe/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo Barreto Preto</title><link>/docs/bolo-barreto-preto/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-barreto-preto/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>1 chávena grande de manteiga&lt;br>
+2 e 1/2 chávenas de farinha&lt;br>
+2 e 1/2 chávenas de açúcar&lt;br>
+2 dl de mel de cana&lt;br>
+2 ovos&lt;br>
+1/2 chávena de café&lt;br>
+1/4 de chávena de leite (frio)&lt;br>
+1 colher de chá de Baking Powder&lt;br>
+1 colher de chá de canela&lt;br>
+1/2 colher de chá de noz moscada&lt;br>
+1 chávena de passas cidra e nozes&lt;/p></description></item><item><title>Bolo Café</title><link>/docs/bolo-cafe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-cafe/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>2 chávenas de Farinha&lt;br>
+2 chávenas de Açúcar&lt;br>
+1 pacote de Margarina&lt;br>
+2 colheres de chá de pó Royal&lt;br>
+1 chávena de café&lt;br>
+2 colheres de Cacau&lt;br>
+4 ovos&lt;/p>
+&lt;h3 id="modo-de-fazer">Modo de Fazer&lt;/h3>
+&lt;p>Claras em castelo, deitam-se no fim.&lt;/p></description></item><item><title>Bolo de Gelado de Amendoim</title><link>/docs/bolo-gelado-de-amendoim/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-gelado-de-amendoim/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>400 g de Amendoim&lt;br>
+250 g de Açúcar&lt;br>
+125 g de manteiga s/sal&lt;br>
+250 g de Natas&lt;br>
+8 gemas de ovos&lt;br>
+6 claras&lt;br>
+2 colheres de fermento em pó&lt;br>
+1/4 de colher de chá de sal fino&lt;br>
+café forte açucarado c/leite&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;h3 id="massa">Massa&lt;/h3>
+&lt;p>Torram-se os amendoins e depois esfrega-se num pano para se libertarem das peles e passa-se 200 g de amendoim na máquina os outros 200 g parte-se aos bocadinhos.&lt;br>
+Batem-se 4 gemas com 125 g de açúcar depois junta-se aos poucos a farinha peneirada com fermento e o sal aos poucos batendo sempre, juntam-se os amendoins passados pela máquina. Batem-se as claras em castelo e envolve-se no preparado sem bater.&lt;br>
+Vai ao forno moderado em tabuleiro pirex untado com manteiga.&lt;/p></description></item><item><title>Licor de Café</title><link>/docs/licor-de-cafe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/licor-de-cafe/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>(para 2 l de licor)&lt;/p>
+&lt;p>9 dl de água&lt;br>
+250 g de açúcar pilé&lt;br>
+1 chávena (de café) de café em pó&lt;br>
+5 dl de aguardente bagaceira&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Prepare com 4 dl de água e o pó de café uma infusão muito forte. Ferva a restante água e o açúcar até a calda formar ponto de xarope. Junte a calda de açúcar arrefecida à infusão, adicione a aguardente, guarde durate 15 a 20 dias bem tapado e, decorrido, este tempo, coe e engarrafe.&lt;/p></description></item><item><title>Pudim Crocante</title><link>/docs/pudim-crocante/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pudim-crocante/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="pudim">Pudim&lt;/h3>
+&lt;p>1 lata de leite Condensado&lt;br>
+2 colheres de sopa de nescafé&lt;br>
+2 vezes a medida da lata de leite condensado de leite&lt;br>
+3 Ovos&lt;br>
+1 colher de sopa de licor de café&lt;/p>
+ &lt;/div>
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="caramelo">Caramelo&lt;/h3>
+&lt;p>1/2 chávena de chá de água&lt;br>
+1/2 chávena de chá de Açúcar&lt;/p>
+ &lt;/div>
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="crocante">Crocante&lt;/h3>
+&lt;p>1 chávena de chá de Açúcar&lt;br>
+1 colher sopa de Manteiga&lt;br>
+1 colher de chá de Amêndoa&lt;/p></description></item><item><title>Pudim de Café</title><link>/docs/pudim-de-cafe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pudim-de-cafe/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>2 latas de leite Condensado&lt;br>
+1 l de Natas&lt;br>
+7 folhas e Gelatina&lt;br>
+6 colheres sobremesa de café instantaneo mocambo&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Bater bem as natas, juntar o leite condensado.&lt;br>
+Demolhar a gelatina 10 minutos Derreter em meia chávena de água bem quente bem como o café e juntar ao preparado anterior.&lt;/p></description></item></channel></rss>

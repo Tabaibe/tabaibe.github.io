@@ -1,66 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vinho Madeira on Receitas</title><link>/ingredients/vinho-madeira/</link><description>Recent content in Vinho Madeira on Receitas</description><generator>Hugo -- gohugo.io</generator><language>pt</language><atom:link href="/ingredients/vinho-madeira/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo de Cerveja</title><link>/docs/bolo-de-cerveja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-cerveja/</guid><description>Ingredientes 500 g de açúcar
-125 g de Manteiga
-1 Cerveja
-1 cálice de vinho madeira
-500 g de farinha de Trigo
-2 colheres de chá de pó royal
-250 grs de nozes
-125 grs de passas de corinto
-Noz moscada q.b.
-Canela q.b.
-Modo de fazer Batem-se os ovos com o Açúcar e a farinha misturada com o pó royal e a canela. Em seguida, deitam-se a cerveja e o vinho madeira.</description></item><item><title>Bolo de Frutas</title><link>/docs/bolo-de-frutas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-frutas/</guid><description>Ingredientes 250 g de farinha de Trigo
-250 g de Açúcar
-250 g de Manteiga
-100 g de Amêndoa
-100 g de Passas
-100 g de cidra
-1 cálice de vinho Madeira
-3 Ovos
-raspa de 1 limão
-1/2 Noz moscada
-1 colher de chá de cacau
-1 colher de sopa de Canela
-Modo de fazer Batem-se bem as gemas com o Açúcar e, em seguida, deitam-se os outros ingredientes e misturam-se.</description></item><item><title>Bolo de Frutas II</title><link>/docs/bolo-de-frutas-ii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-frutas-ii/</guid><description>Ingredientes 250 g de farinha
-250 g de açúcar
-2 Ovos
-1/4 litro de mel
-1/4 litro de leite
-125 g de manteiga
-1 colher de chá de soda
-250 g de nozes
-70 g de amêndoas
-12 passas
-80 g de ameixas
-1 noz moscada
-1 limão
-1 colher de sopa de canela
-1 colher de sopa de banha
-vinho</description></item><item><title>Bolo Família</title><link>/docs/bolo-familia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-familia/</guid><description>Ingredientes 1/2 kg de farinha
-370 gr de manteiga e banha
-400 g de açúcar
-1 noz moscada
-1 pires de nozes
-1/2 garrafa de leite
-3 ovos
-1 cálice de vinho
-1/2 cálice de aguardente
-125 g de cidra
-1 chávena de mel de cana
-1 limão
-1 pacote de bicarbonato de soda</description></item><item><title>Gomos de Laranja</title><link>/docs/gomos-de-laranja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/gomos-de-laranja/</guid><description>Ingredientes 250 g de Farinha
-250 g de Manteiga
-1 cálice de vinho madeira
-Modo de Fazer Depois de bem amassado estende-se com o rolo e corta-se com um cálice, dobra-se ao meio e vai ao forno depois de tirar do forno envolve-se em açúcar refinado.</description></item><item><title>Licor Eduardinho</title><link>/docs/licor-eduardinho/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/licor-eduardinho/</guid><description>Ingredientes 3 l de Vinho madeira
-1 l de Álcool
-1/2 l de Água
-2 kg de Açúcar
-essência de tuti fruti q.b.
-Modo de fazer Vai ao lume com o açúcar até estar bem dissolvido; depois ainda no lume deita-se metade do vinho e mexe-se muito bem, seguidamente deixa-se arrefecer deita-se o resto do vinho, o álcool e a essência depois, deita-se tudo uns dias, depois passa-se para garrafas.</description></item><item><title>Pudim de Palitos</title><link>/docs/pudim-de-palitos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pudim-de-palitos/</guid><description>Ingredientes palitos de la reine q.b.
-1 lata de leite condensado
-1 lata de leite de vaca
-4 gemas
-1 colher de sopa de farinha maizena
-200 g de açúcar refinado
-4 claras
-250 g de natas
-Modo de fazer O leite condensado, o leite, as gemas e a maizena vão ao lume até fazer papa, deita-se em seguida em cima do pirex cujo fundo está coberto de palitos de la reine.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vinho Madeira on Receitas</title><link>/ingredients/vinho-madeira/</link><description>Recent content in Vinho Madeira on Receitas</description><generator>Hugo</generator><language>pt</language><atom:link href="/ingredients/vinho-madeira/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo de Cerveja</title><link>/docs/bolo-de-cerveja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-cerveja/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>500 g de açúcar&lt;br>
+125 g de Manteiga&lt;br>
+1 Cerveja&lt;br>
+1 cálice de vinho madeira&lt;br>
+500 g de farinha de Trigo&lt;br>
+2 colheres de chá de pó royal&lt;br>
+250 grs de nozes&lt;br>
+125 grs de passas de corinto&lt;br>
+Noz moscada q.b.&lt;br>
+Canela q.b.&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Batem-se os ovos com o Açúcar e a farinha misturada com o pó royal e a canela. Em seguida, deitam-se a cerveja e o vinho madeira. Mistura-se tudo. Finalmente, as frutas partidas e misturadas. Vai ao forno quente em forma untada.&lt;/p></description></item><item><title>Bolo de Frutas</title><link>/docs/bolo-de-frutas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-frutas/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>250 g de farinha de Trigo&lt;br>
+250 g de Açúcar&lt;br>
+250 g de Manteiga&lt;br>
+100 g de Amêndoa&lt;br>
+100 g de Passas&lt;br>
+100 g de cidra&lt;br>
+1 cálice de vinho Madeira&lt;br>
+3 Ovos&lt;br>
+raspa de 1 limão&lt;br>
+1/2 Noz moscada&lt;br>
+1 colher de chá de cacau&lt;br>
+1 colher de sopa de Canela&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Batem-se bem as gemas com o Açúcar e, em seguida, deitam-se os outros ingredientes e misturam-se. Por fim, deitam-se as claras em castelo. Vai ao forno bem quente em forma untada.&lt;/p></description></item><item><title>Bolo de Frutas II</title><link>/docs/bolo-de-frutas-ii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-frutas-ii/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>250 g de farinha&lt;br>
+250 g de açúcar&lt;br>
+2 Ovos&lt;br>
+1/4 litro de mel&lt;br>
+1/4 litro de leite&lt;br>
+125 g de manteiga&lt;br>
+1 colher de chá de soda&lt;br>
+250 g de nozes&lt;br>
+70 g de amêndoas&lt;br>
+12 passas&lt;br>
+80 g de ameixas&lt;br>
+1 noz moscada&lt;br>
+1 limão&lt;br>
+1 colher de sopa de canela&lt;br>
+1 colher de sopa de banha&lt;br>
+vinho&lt;/p></description></item><item><title>Bolo Família</title><link>/docs/bolo-familia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-familia/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>1/2 kg de farinha&lt;br>
+370 gr de manteiga e banha&lt;br>
+400 g de açúcar&lt;br>
+1 noz moscada&lt;br>
+1 pires de nozes&lt;br>
+1/2 garrafa de leite&lt;br>
+3 ovos&lt;br>
+1 cálice de vinho&lt;br>
+1/2 cálice de aguardente&lt;br>
+125 g de cidra&lt;br>
+1 chávena de mel de cana&lt;br>
+1 limão&lt;br>
+1 pacote de bicarbonato de soda&lt;/p></description></item><item><title>Gomos de Laranja</title><link>/docs/gomos-de-laranja/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/gomos-de-laranja/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>250 g de Farinha&lt;br>
+250 g de Manteiga&lt;br>
+1 cálice de vinho madeira&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de Fazer&lt;/h2>
+&lt;p>Depois de bem amassado estende-se com o rolo e corta-se com um cálice, dobra-se ao meio e vai ao forno depois de tirar do forno envolve-se em açúcar refinado.&lt;/p></description></item><item><title>Licor Eduardinho</title><link>/docs/licor-eduardinho/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/licor-eduardinho/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>3 l de Vinho madeira&lt;br>
+1 l de Álcool&lt;br>
+1/2 l de Água&lt;br>
+2 kg de Açúcar&lt;br>
+essência de tuti fruti q.b.&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Vai ao lume com o açúcar até estar bem dissolvido; depois ainda no lume deita-se metade do vinho e mexe-se muito bem, seguidamente deixa-se arrefecer deita-se o resto do vinho, o álcool e a essência depois, deita-se tudo uns dias, depois passa-se para garrafas.&lt;/p></description></item><item><title>Pudim de Palitos</title><link>/docs/pudim-de-palitos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pudim-de-palitos/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>palitos de la reine q.b.&lt;br>
+1 lata de leite condensado&lt;br>
+1 lata de leite de vaca&lt;br>
+4 gemas&lt;br>
+1 colher de sopa de farinha maizena&lt;br>
+200 g de açúcar refinado&lt;br>
+4 claras&lt;br>
+250 g de natas&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>O leite condensado, o leite, as gemas e a maizena vão ao lume até fazer papa, deita-se em seguida em cima do pirex cujo fundo está coberto de palitos de la reine.&lt;br>
+Desfaz-se um mouse de chocolate e embebe-se os palitos de la reine e põe por cima da primeira papa&lt;br>
+Faz um chantilly com o açúcar refinado e natas e as claras em castelo, cobre-se todo o pudim.&lt;/p></description></item></channel></rss>

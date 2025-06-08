@@ -1,57 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cenoura on Receitas</title><link>/ingredients/cenoura/</link><description>Recent content in Cenoura on Receitas</description><generator>Hugo -- gohugo.io</generator><language>pt</language><atom:link href="/ingredients/cenoura/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo de Ananás e Cenoura</title><link>/docs/bolo-de-ananas-e-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-ananas-e-cenoura/</guid><description>Ingredientes 2 chávenas de cenoura raspada
-2 chávena de açúcar
-2 chávena de Farinha
-5 ovos inteiros
-1 colher de chá de sal fino
-1 colher de chá de baunilha líquida
-1 chávena de nozes, passas, amêndoas (picadas)
-4 colheres de chá de Soda
-1 chávena de côco ralado
-1 lata de natas
-1 lata de ananás grande (cortada em pedacinhos)
-1 chavena de óleo
-2 colheres de sopa de mel de cana</description></item><item><title>Bolo de Cenoura</title><link>/docs/bolo-de-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-cenoura/</guid><description>Ingredientes 250 g de Cenoura
-250 g de Amêndoa
-250 g de Açúcar
-6 ovos
-2 colheres de chá de aguardente
-Modo de fazer Coze-se a cenoura que fique boa de ralar. Mistura-se a amêndoa bem pisada e bate-se bem. Juntam.se os ovos bem batidos à parte. Acrescentam-se os restantes ingredientes e liga-se muito bem. Deita-se numa forma untada com manteiga e polvilhada com pão torrado e vai ao forno cozer.</description></item><item><title>Bolo de Cenoura e Ananás</title><link>/docs/bolo-de-cenoura-e-ananas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-cenoura-e-ananas/</guid><description>Ingredientes 2 chávenas de Açúcar
-2 chávenas de Farinha
-1 e 1/2 chávena de Óleo
-4 ovos inteiros
-3 colheres de chá de canela moída
-2 colheres de chá de Soda
-1 colher de chá de sal fino
-1 chávena de côco
-1 chávena de nozes picadas
-2 chávenas de cenoura raspada
-1 lata pequena de ananás picada
-Modo de fazer Mexe-se tudo junto muito bem e vai ao forno a cozer mais ou menos 1 hora, põe-se papel no fundo da pudineira se não tiver nozes pode deistar passas ou as duas coisas.</description></item><item><title>Bolo de Cenoura II</title><link>/docs/bolo-de-cenoura-ii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-cenoura-ii/</guid><description>Ingredientes 250 g de Cenoura
-50 g de Amêndoa
-250 gr de Açúcar
-4 ovos
-2 colheres de sopa de aguardente
-1 limão
-Modo de fazer A cenoura que seja boa para ralar, a améndoa bem pisada, mistura-se tudo, os ovos bem batidos à parte depois junta-se tudo numa forma untada de manteiga e polvilha-se de pão torrado.</description></item><item><title>Pickles</title><link>/docs/pickles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pickles/</guid><description>Ingredientes Legumes 1 kg de cenouras pequenas
-1 kg de cebolas pequenas
-1 kg vaginha italiana
-2 couves flor
-pimpinelas pequenas
-uns pimentos Salmoura 70 g de caré
-200 g de mostarda em pó
-2 colheres de sopa de Farinha
-6 colheres de Açúcar
-2 colheres de sal fino
-3 l de vinagre branco Modo de fazer Ferver em separado os legumes durante 5 minutos.
-Mistura-se os ingredientes da salmoura e ferve-se 5 minutos</description></item><item><title>Torta de Cenoura</title><link>/docs/torta-de-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/torta-de-cenoura/</guid><description>Ingredientes 500 g de açúcar refinado
-500 g de cenoura
-4 Ovos
-4 colheres de Farinha
-1 colher de café pó royal
-1 laranja
-2 colheres de sopa de Manteiga
-2 colheres de açúcar refinado
-1 colher de Açúcar de pilhé
-Modo de fazer Coze-se as cenouras, passa-se pelo passador.
-Junta-se o açúcar refinado, as gemas e a raspa de laranja.
-Bate-se um pouco e adiciona-se, alternadamente as claras em castelo, a farinha junto ao pó royal.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cenoura on Receitas</title><link>/ingredients/cenoura/</link><description>Recent content in Cenoura on Receitas</description><generator>Hugo</generator><language>pt</language><atom:link href="/ingredients/cenoura/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo de Ananás e Cenoura</title><link>/docs/bolo-de-ananas-e-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-ananas-e-cenoura/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>2 chávenas de cenoura raspada&lt;br>
+2 chávena de açúcar&lt;br>
+2 chávena de Farinha&lt;br>
+5 ovos inteiros&lt;br>
+1 colher de chá de sal fino&lt;br>
+1 colher de chá de baunilha líquida&lt;br>
+1 chávena de nozes, passas, amêndoas (picadas)&lt;br>
+4 colheres de chá de Soda&lt;br>
+1 chávena de côco ralado&lt;br>
+1 lata de natas&lt;br>
+1 lata de ananás grande (cortada em pedacinhos)&lt;br>
+1 chavena de óleo&lt;br>
+2 colheres de sopa de mel de cana&lt;/p></description></item><item><title>Bolo de Cenoura</title><link>/docs/bolo-de-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-cenoura/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>250 g de Cenoura&lt;br>
+250 g de Amêndoa&lt;br>
+250 g de Açúcar&lt;br>
+6 ovos&lt;br>
+2 colheres de chá de aguardente&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Coze-se a cenoura que fique boa de ralar. Mistura-se a amêndoa bem pisada e bate-se bem. Juntam.se os ovos bem batidos à parte. Acrescentam-se os restantes ingredientes e liga-se muito bem. Deita-se numa forma untada com manteiga e polvilhada com pão torrado e vai ao forno cozer.&lt;/p></description></item><item><title>Bolo de Cenoura e Ananás</title><link>/docs/bolo-de-cenoura-e-ananas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-cenoura-e-ananas/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>2 chávenas de Açúcar&lt;br>
+2 chávenas de Farinha&lt;br>
+1 e 1/2 chávena de Óleo&lt;br>
+4 ovos inteiros&lt;br>
+3 colheres de chá de canela moída&lt;br>
+2 colheres de chá de Soda&lt;br>
+1 colher de chá de sal fino&lt;br>
+1 chávena de côco&lt;br>
+1 chávena de nozes picadas&lt;br>
+2 chávenas de cenoura raspada&lt;br>
+1 lata pequena de ananás picada&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Mexe-se tudo junto muito bem e vai ao forno a cozer mais ou menos 1 hora, põe-se papel no fundo da pudineira se não tiver nozes pode deistar passas ou as duas coisas.&lt;/p></description></item><item><title>Bolo de Cenoura II</title><link>/docs/bolo-de-cenoura-ii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-cenoura-ii/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>250 g de Cenoura&lt;br>
+50 g de Amêndoa&lt;br>
+250 gr de Açúcar&lt;br>
+4 ovos&lt;br>
+2 colheres de sopa de aguardente&lt;br>
+1 limão&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>A cenoura que seja boa para ralar, a améndoa bem pisada, mistura-se tudo, os ovos bem batidos à parte depois junta-se tudo numa forma untada de manteiga e polvilha-se de pão torrado.&lt;/p></description></item><item><title>Pickles</title><link>/docs/pickles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pickles/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="legumes">Legumes&lt;/h3>
+&lt;p>1 kg de cenouras pequenas&lt;br>
+1 kg de cebolas pequenas&lt;br>
+1 kg vaginha italiana&lt;br>
+2 couves flor&lt;br>
+pimpinelas pequenas&lt;br>
+uns pimentos&lt;/p>
+ &lt;/div>
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="salmoura">Salmoura&lt;/h3>
+&lt;p>70 g de caré&lt;br>
+200 g de mostarda em pó&lt;br>
+2 colheres de sopa de Farinha&lt;br>
+6 colheres de Açúcar&lt;br>
+2 colheres de sal fino&lt;br>
+3 l de vinagre branco&lt;/p>
+ &lt;/div>
+ 
+&lt;/div>
+
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Ferver em separado os legumes durante 5 minutos.&lt;br>
+Mistura-se os ingredientes da salmoura e ferve-se 5 minutos&lt;/p></description></item><item><title>Torta de Cenoura</title><link>/docs/torta-de-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/torta-de-cenoura/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>500 g de açúcar refinado&lt;br>
+500 g de cenoura&lt;br>
+4 Ovos&lt;br>
+4 colheres de Farinha&lt;br>
+1 colher de café pó royal&lt;br>
+1 laranja&lt;br>
+2 colheres de sopa de Manteiga&lt;br>
+2 colheres de açúcar refinado&lt;br>
+1 colher de Açúcar de pilhé&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Coze-se as cenouras, passa-se pelo passador.&lt;br>
+Junta-se o açúcar refinado, as gemas e a raspa de laranja.&lt;br>
+Bate-se um pouco e adiciona-se, alternadamente as claras em castelo, a farinha junto ao pó royal.&lt;br>
+Entretanto faz-se o creme batendo a manteiga com 2 colheres de açúcar e o sumo de laranja.&lt;br>
+Tira-se o bolo do formo, desenforma-se em cima de uma toalha húmida, barra-se com o creme e enrola-se. Polvilha-se com açúcar pilhé.&lt;/p></description></item></channel></rss>

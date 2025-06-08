@@ -560,9 +560,9 @@ Disallow: /ingredients/acucar-pile/
 
 Disallow: /ingredients/agua/
 
-Disallow: /ingredients/aguardente/
-
 Disallow: /categories/aguardente/
+
+Disallow: /ingredients/aguardente/
 
 Disallow: /ingredients/aguardente-bagaceira/
 
@@ -634,9 +634,9 @@ Disallow: /ingredients/caramelos-de-nata/
 
 Disallow: /ingredients/care/
 
-Disallow: /ingredients/caril/
-
 Disallow: /categories/caril/
+
+Disallow: /ingredients/caril/
 
 Disallow: /categories/carne/
 
@@ -802,9 +802,9 @@ Disallow: /ingredients/palitos-de-la-reine/
 
 Disallow: /ingredients/palitos-la-reine/
 
-Disallow: /ingredients/pao/
-
 Disallow: /categories/pao/
+
+Disallow: /ingredients/pao/
 
 Disallow: /ingredients/passa/
 

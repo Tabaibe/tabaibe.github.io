@@ -1,12 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Caré on Receitas</title><link>/ingredients/care/</link><description>Recent content in Caré on Receitas</description><generator>Hugo -- gohugo.io</generator><language>pt</language><atom:link href="/ingredients/care/index.xml" rel="self" type="application/rss+xml"/><item><title>Pickles</title><link>/docs/pickles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pickles/</guid><description>Ingredientes Legumes 1 kg de cenouras pequenas
-1 kg de cebolas pequenas
-1 kg vaginha italiana
-2 couves flor
-pimpinelas pequenas
-uns pimentos Salmoura 70 g de caré
-200 g de mostarda em pó
-2 colheres de sopa de Farinha
-6 colheres de Açúcar
-2 colheres de sal fino
-3 l de vinagre branco Modo de fazer Ferver em separado os legumes durante 5 minutos.
-Mistura-se os ingredientes da salmoura e ferve-se 5 minutos</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Caré on Receitas</title><link>/ingredients/care/</link><description>Recent content in Caré on Receitas</description><generator>Hugo</generator><language>pt</language><atom:link href="/ingredients/care/index.xml" rel="self" type="application/rss+xml"/><item><title>Pickles</title><link>/docs/pickles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pickles/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="legumes">Legumes&lt;/h3>
+&lt;p>1 kg de cenouras pequenas&lt;br>
+1 kg de cebolas pequenas&lt;br>
+1 kg vaginha italiana&lt;br>
+2 couves flor&lt;br>
+pimpinelas pequenas&lt;br>
+uns pimentos&lt;/p>
+ &lt;/div>
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="salmoura">Salmoura&lt;/h3>
+&lt;p>70 g de caré&lt;br>
+200 g de mostarda em pó&lt;br>
+2 colheres de sopa de Farinha&lt;br>
+6 colheres de Açúcar&lt;br>
+2 colheres de sal fino&lt;br>
+3 l de vinagre branco&lt;/p>
+ &lt;/div>
+ 
+&lt;/div>
+
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Ferver em separado os legumes durante 5 minutos.&lt;br>
+Mistura-se os ingredientes da salmoura e ferve-se 5 minutos&lt;/p></description></item></channel></rss>

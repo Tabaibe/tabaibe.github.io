@@ -1,64 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Passa on Receitas</title><link>/ingredients/passa/</link><description>Recent content in Passa on Receitas</description><generator>Hugo -- gohugo.io</generator><language>pt</language><atom:link href="/ingredients/passa/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo de Ananás e Cenoura</title><link>/docs/bolo-de-ananas-e-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-ananas-e-cenoura/</guid><description>Ingredientes 2 chávenas de cenoura raspada
-2 chávena de açúcar
-2 chávena de Farinha
-5 ovos inteiros
-1 colher de chá de sal fino
-1 colher de chá de baunilha líquida
-1 chávena de nozes, passas, amêndoas (picadas)
-4 colheres de chá de Soda
-1 chávena de côco ralado
-1 lata de natas
-1 lata de ananás grande (cortada em pedacinhos)
-1 chavena de óleo
-2 colheres de sopa de mel de cana</description></item><item><title>Bolo de Banana II</title><link>/docs/bolo-de-banana-ii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-banana-ii/</guid><description>Ingredientes 4 Ovos
-8 Bananas
-1 chávena de farinha de Trigo
-50 g de Açúcar
-50 g de Passas
-canela em pó q.b.
-Manteiga q.b.
-Modo de fazer Esmaga-se as bananas com gemas e a farinha, juntam-se as passas e as clara em castelo, unta-se uma forma com manteiga, com o açúcar e a canela e vai ao forno meia hora.</description></item><item><title>Bolo de Frutas II</title><link>/docs/bolo-de-frutas-ii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-frutas-ii/</guid><description>Ingredientes 250 g de farinha
-250 g de açúcar
-2 Ovos
-1/4 litro de mel
-1/4 litro de leite
-125 g de manteiga
-1 colher de chá de soda
-250 g de nozes
-70 g de amêndoas
-12 passas
-80 g de ameixas
-1 noz moscada
-1 limão
-1 colher de sopa de canela
-1 colher de sopa de banha
-vinho</description></item><item><title>Bolo de Natas com Mel</title><link>/docs/bolo-de-natas-com-mel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-natas-com-mel/</guid><description>Ingredientes 1 Chávena de Natas
-2 chávenas de Farinha
-2 chávenas de Açúcar
-2 chávenas de Leite
-4 colheres de sopa bem cheia de mel de cana
-1/2 pacote de Soda
-Noz moscada a gosto
-1 colher de sopa de Canela moída
-50 g de Passas
-100 g de Nozes
-50 g de Amêndoas
-100 g de Tâmaras
-50 g cerejas cristalizadas
-1 limão: raspa e sumo
-Cidra a gosto</description></item><item><title>Licor de Leite II</title><link>/docs/licor-de-leite-ii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/licor-de-leite-ii/</guid><description>Ingredientes 1 l de Leite
-1 kg de Açúcar
-1 l de álcool
-100 g de Passas
-100 g de Cacau
-1 vagem de Baunilha
-Modo de fazer Passados 8 dias coa-se.</description></item><item><title>Licor Tim-Tam-Tom</title><link>/docs/licor-tim-tam-tom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/licor-tim-tam-tom/</guid><description>Ingredientes 1 l de Álcool
-1 l de vinho tratado
-1 l Água
-1 kg Açúcar
-30 g chá preto
-50 g passas
-50 g Ameixa preta
-25 g canela em pau
-1 vagem de baunilha
-Modo de fazer A água ferve com o chá durante 7 minutos deixa-se arrefecer cerca de 20 minutos, depois deita-se o vinho e o álcool e por fim deita-se o resto dos ingredientes devidamente cortados.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Passa on Receitas</title><link>/ingredients/passa/</link><description>Recent content in Passa on Receitas</description><generator>Hugo</generator><language>pt</language><atom:link href="/ingredients/passa/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo de Ananás e Cenoura</title><link>/docs/bolo-de-ananas-e-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-ananas-e-cenoura/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>2 chávenas de cenoura raspada&lt;br>
+2 chávena de açúcar&lt;br>
+2 chávena de Farinha&lt;br>
+5 ovos inteiros&lt;br>
+1 colher de chá de sal fino&lt;br>
+1 colher de chá de baunilha líquida&lt;br>
+1 chávena de nozes, passas, amêndoas (picadas)&lt;br>
+4 colheres de chá de Soda&lt;br>
+1 chávena de côco ralado&lt;br>
+1 lata de natas&lt;br>
+1 lata de ananás grande (cortada em pedacinhos)&lt;br>
+1 chavena de óleo&lt;br>
+2 colheres de sopa de mel de cana&lt;/p></description></item><item><title>Bolo de Banana II</title><link>/docs/bolo-de-banana-ii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-banana-ii/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>4 Ovos&lt;br>
+8 Bananas&lt;br>
+1 chávena de farinha de Trigo&lt;br>
+50 g de Açúcar&lt;br>
+50 g de Passas&lt;br>
+canela em pó q.b.&lt;br>
+Manteiga q.b.&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Esmaga-se as bananas com gemas e a farinha, juntam-se as passas e as clara em castelo, unta-se uma forma com manteiga, com o açúcar e a canela e vai ao forno meia hora.&lt;/p></description></item><item><title>Bolo de Frutas II</title><link>/docs/bolo-de-frutas-ii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-frutas-ii/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>250 g de farinha&lt;br>
+250 g de açúcar&lt;br>
+2 Ovos&lt;br>
+1/4 litro de mel&lt;br>
+1/4 litro de leite&lt;br>
+125 g de manteiga&lt;br>
+1 colher de chá de soda&lt;br>
+250 g de nozes&lt;br>
+70 g de amêndoas&lt;br>
+12 passas&lt;br>
+80 g de ameixas&lt;br>
+1 noz moscada&lt;br>
+1 limão&lt;br>
+1 colher de sopa de canela&lt;br>
+1 colher de sopa de banha&lt;br>
+vinho&lt;/p></description></item><item><title>Bolo de Natas com Mel</title><link>/docs/bolo-de-natas-com-mel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-natas-com-mel/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>1 Chávena de Natas&lt;br>
+2 chávenas de Farinha&lt;br>
+2 chávenas de Açúcar&lt;br>
+2 chávenas de Leite&lt;br>
+4 colheres de sopa bem cheia de mel de cana&lt;br>
+1/2 pacote de Soda&lt;br>
+Noz moscada a gosto&lt;br>
+1 colher de sopa de Canela moída&lt;br>
+50 g de Passas&lt;br>
+100 g de Nozes&lt;br>
+50 g de Amêndoas&lt;br>
+100 g de Tâmaras&lt;br>
+50 g cerejas cristalizadas&lt;br>
+1 limão: raspa e sumo&lt;br>
+Cidra a gosto&lt;/p></description></item><item><title>Licor de Leite II</title><link>/docs/licor-de-leite-ii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/licor-de-leite-ii/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>1 l de Leite&lt;br>
+1 kg de Açúcar&lt;br>
+1 l de álcool&lt;br>
+100 g de Passas&lt;br>
+100 g de Cacau&lt;br>
+1 vagem de Baunilha&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Passados 8 dias coa-se.&lt;/p></description></item><item><title>Licor Tim-Tam-Tom</title><link>/docs/licor-tim-tam-tom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/licor-tim-tam-tom/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>1 l de Álcool&lt;br>
+1 l de vinho tratado&lt;br>
+1 l Água&lt;br>
+1 kg Açúcar&lt;br>
+30 g chá preto&lt;br>
+50 g passas&lt;br>
+50 g Ameixa preta&lt;br>
+25 g canela em pau&lt;br>
+1 vagem de baunilha&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>A água ferve com o chá durante 7 minutos deixa-se arrefecer cerca de 20 minutos, depois deita-se o vinho e o álcool e por fim deita-se o resto dos ingredientes devidamente cortados.&lt;/p></description></item></channel></rss>

@@ -1,34 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ananás on Receitas</title><link>/ingredients/ananas/</link><description>Recent content in Ananás on Receitas</description><generator>Hugo -- gohugo.io</generator><language>pt</language><atom:link href="/ingredients/ananas/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo de Ananás</title><link>/docs/bolo-de-ananas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-ananas/</guid><description>Ingredientes Massa 1 e 1/2 chávena de açúcar
-1/2 chávena de manteiga
-3 ovos
-1/2 chávena de leite
-2 chávenas de farinha
-4 colher de chá de pó Royal
-1 laranja (raspa e sumo) Recheio 4 talhadas de ananás
-1 colher de sumo de limão
-1 clara de ovo
-2 e 1/2 chávenas de açúcar refinado
-2 colheres de manteiga Modo de fazer Massa: Separa-se as clara, guardando uma para a cobertura.</description></item><item><title>Bolo de Ananás e Cenoura</title><link>/docs/bolo-de-ananas-e-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-ananas-e-cenoura/</guid><description>Ingredientes 2 chávenas de cenoura raspada
-2 chávena de açúcar
-2 chávena de Farinha
-5 ovos inteiros
-1 colher de chá de sal fino
-1 colher de chá de baunilha líquida
-1 chávena de nozes, passas, amêndoas (picadas)
-4 colheres de chá de Soda
-1 chávena de côco ralado
-1 lata de natas
-1 lata de ananás grande (cortada em pedacinhos)
-1 chavena de óleo
-2 colheres de sopa de mel de cana</description></item><item><title>Bolo de Cenoura e Ananás</title><link>/docs/bolo-de-cenoura-e-ananas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-cenoura-e-ananas/</guid><description>Ingredientes 2 chávenas de Açúcar
-2 chávenas de Farinha
-1 e 1/2 chávena de Óleo
-4 ovos inteiros
-3 colheres de chá de canela moída
-2 colheres de chá de Soda
-1 colher de chá de sal fino
-1 chávena de côco
-1 chávena de nozes picadas
-2 chávenas de cenoura raspada
-1 lata pequena de ananás picada
-Modo de fazer Mexe-se tudo junto muito bem e vai ao forno a cozer mais ou menos 1 hora, põe-se papel no fundo da pudineira se não tiver nozes pode deistar passas ou as duas coisas.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ananás on Receitas</title><link>/ingredients/ananas/</link><description>Recent content in Ananás on Receitas</description><generator>Hugo</generator><language>pt</language><atom:link href="/ingredients/ananas/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo de Ananás</title><link>/docs/bolo-de-ananas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-ananas/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="massa">Massa&lt;/h3>
+&lt;p>1 e 1/2 chávena de açúcar&lt;br>
+1/2 chávena de manteiga&lt;br>
+3 ovos&lt;br>
+1/2 chávena de leite&lt;br>
+2 chávenas de farinha&lt;br>
+4 colher de chá de pó Royal&lt;br>
+1 laranja (raspa e sumo)&lt;/p>
+ &lt;/div>
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="recheio">Recheio&lt;/h3>
+&lt;p>4 talhadas de ananás&lt;br>
+1 colher de sumo de limão&lt;br>
+1 clara de ovo&lt;br>
+2 e 1/2 chávenas de açúcar refinado&lt;br>
+2 colheres de manteiga&lt;/p>
+ &lt;/div>
+ 
+&lt;/div>
+
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;h3 id="massa">Massa:&lt;/h3>
+&lt;p>Separa-se as clara, guardando uma para a cobertura.&lt;br>
+Derrete-se a manteiga e junta-se o açúcar, batendo muito bem; depois deita-se a farinha peneirada e o pó royal e mistura-se com os outros ingredientes.&lt;br>
+Coze-se a massa em 2 ou 3 formas em forno moderado, no espaço de 20 minutos e a seguir cobre-se com o recheio.&lt;/p></description></item><item><title>Bolo de Ananás e Cenoura</title><link>/docs/bolo-de-ananas-e-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-ananas-e-cenoura/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>2 chávenas de cenoura raspada&lt;br>
+2 chávena de açúcar&lt;br>
+2 chávena de Farinha&lt;br>
+5 ovos inteiros&lt;br>
+1 colher de chá de sal fino&lt;br>
+1 colher de chá de baunilha líquida&lt;br>
+1 chávena de nozes, passas, amêndoas (picadas)&lt;br>
+4 colheres de chá de Soda&lt;br>
+1 chávena de côco ralado&lt;br>
+1 lata de natas&lt;br>
+1 lata de ananás grande (cortada em pedacinhos)&lt;br>
+1 chavena de óleo&lt;br>
+2 colheres de sopa de mel de cana&lt;/p></description></item><item><title>Bolo de Cenoura e Ananás</title><link>/docs/bolo-de-cenoura-e-ananas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-cenoura-e-ananas/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>2 chávenas de Açúcar&lt;br>
+2 chávenas de Farinha&lt;br>
+1 e 1/2 chávena de Óleo&lt;br>
+4 ovos inteiros&lt;br>
+3 colheres de chá de canela moída&lt;br>
+2 colheres de chá de Soda&lt;br>
+1 colher de chá de sal fino&lt;br>
+1 chávena de côco&lt;br>
+1 chávena de nozes picadas&lt;br>
+2 chávenas de cenoura raspada&lt;br>
+1 lata pequena de ananás picada&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Mexe-se tudo junto muito bem e vai ao forno a cozer mais ou menos 1 hora, põe-se papel no fundo da pudineira se não tiver nozes pode deistar passas ou as duas coisas.&lt;/p></description></item></channel></rss>

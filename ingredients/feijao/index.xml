@@ -1,8 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Feijão on Receitas</title><link>/ingredients/feijao/</link><description>Recent content in Feijão on Receitas</description><generator>Hugo -- gohugo.io</generator><language>pt</language><atom:link href="/ingredients/feijao/index.xml" rel="self" type="application/rss+xml"/><item><title>Pastéis de Feijão</title><link>/docs/pasteis-de-feijao/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pasteis-de-feijao/</guid><description>Ingredientes Massa 125 g de Farinha
-1 colher das de sopa de Manteiga
-1 concha de Açúcar
-1 ovo Creme 10 Ovos
-500 g Açúcar
-100 g de amêndoa
-100 g de feijão Modo de Fazer Massa, amassa-se tudo e depois se for preciso junta-se um pouco de água morna.
-Creme, coze-se o feijão e rala-se, faz-se uma calda junta-se a amêndoa e os ovos.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Feijão on Receitas</title><link>/ingredients/feijao/</link><description>Recent content in Feijão on Receitas</description><generator>Hugo</generator><language>pt</language><atom:link href="/ingredients/feijao/index.xml" rel="self" type="application/rss+xml"/><item><title>Pastéis de Feijão</title><link>/docs/pasteis-de-feijao/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pasteis-de-feijao/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="massa">Massa&lt;/h3>
+&lt;p>125 g de Farinha&lt;br>
+1 colher das de sopa de Manteiga&lt;br>
+1 concha de Açúcar&lt;br>
+1 ovo&lt;/p>
+ &lt;/div>
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="creme">Creme&lt;/h3>
+&lt;p>10 Ovos&lt;br>
+500 g Açúcar&lt;br>
+100 g de amêndoa&lt;br>
+100 g de feijão&lt;/p>
+ &lt;/div>
+ 
+&lt;/div>
+
+&lt;h2 id="modo-de-fazer">Modo de Fazer&lt;/h2>
+&lt;p>Massa, amassa-se tudo e depois se for preciso junta-se um pouco de água morna.&lt;br>
+Creme, coze-se o feijão e rala-se, faz-se uma calda junta-se a amêndoa e os ovos.&lt;/p></description></item></channel></rss>

@@ -1,16 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Requeijão on Receitas</title><link>/ingredients/requeijao/</link><description>Recent content in Requeijão on Receitas</description><generator>Hugo -- gohugo.io</generator><language>pt</language><atom:link href="/ingredients/requeijao/index.xml" rel="self" type="application/rss+xml"/><item><title>Pudim de Requeijão</title><link>/docs/pudim-de-requeijao/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pudim-de-requeijao/</guid><description>Ingredientes 1 kg de Requeijão
-1 kg de Açúcar
-8 ovos (2 claras em castelo)
-Modo de fazer Batem-se os ovos com o Açúcar com gemada. Depois bem batidas deita-se raspa de 1 limão e o sumo de 3 laranjas e em seguida o leite. Numa forma, queima-se o açúcar, deita-se o preparado e leva-se ao forno.</description></item><item><title>Queijadas</title><link>/docs/queijadas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/queijadas/</guid><description>Ingredientes Massa 300 g de farinha de trigo
-1 colher de sopa de manteiga
-água até tender Recheio 1 kg de requeijão
-1/2 kg de açúcar
-3 gemas de ovos
-1 colher de sopa de farinha Modo de fazer Massa Amassa-se a farinha com a manteiga deitando a pouco e pouco água até tender (no final a massa não poderá &amp;ldquo;pegar&amp;rdquo; nas mãos mas também ao puxarmos não pode encolher demasiado).</description></item><item><title>Tarte de Requeijão (Sem base)</title><link>/docs/tarte-de-requeijao-sem-base/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/tarte-de-requeijao-sem-base/</guid><description>Ingredientes 700 gr de Requeijão
-1 pacote de natas
-1 iogurte natural
-7 Ovos
-350 gr de Açúcar
-1 colher de sopa custard
-Modo de fazer Rala-se o requeijão, junta-se os ovos, o açúcar e mexe-se tudo depois introduz-se o iogurte, as natas e o custard. Mexe-se com a batedeira electrica.
-Coze +/- 30 minutos.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Requeijão on Receitas</title><link>/ingredients/requeijao/</link><description>Recent content in Requeijão on Receitas</description><generator>Hugo</generator><language>pt</language><atom:link href="/ingredients/requeijao/index.xml" rel="self" type="application/rss+xml"/><item><title>Pudim de Requeijão</title><link>/docs/pudim-de-requeijao/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pudim-de-requeijao/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>1 kg de Requeijão&lt;br>
+1 kg de Açúcar&lt;br>
+8 ovos (2 claras em castelo)&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Batem-se os ovos com o Açúcar com gemada. Depois bem batidas deita-se raspa de 1 limão e o sumo de 3 laranjas e em seguida o leite. Numa forma, queima-se o açúcar, deita-se o preparado e leva-se ao forno.&lt;/p></description></item><item><title>Queijadas</title><link>/docs/queijadas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/queijadas/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="massa">Massa&lt;/h3>
+&lt;p>300 g de farinha de trigo&lt;br>
+1 colher de sopa de manteiga&lt;br>
+água até tender&lt;/p>
+ &lt;/div>
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="recheio">Recheio&lt;/h3>
+&lt;p>1 kg de requeijão&lt;br>
+1/2 kg de açúcar&lt;br>
+3 gemas de ovos&lt;br>
+1 colher de sopa de farinha&lt;/p>
+ &lt;/div>
+ 
+&lt;/div>
+
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;h3 id="massa">Massa&lt;/h3>
+&lt;p>Amassa-se a farinha com a manteiga deitando a pouco e pouco água até tender (no final a massa não poderá &amp;ldquo;pegar&amp;rdquo; nas mãos mas também ao puxarmos não pode encolher demasiado). Fazem-se bolinhas com a massa e tendem-se com farinha com o rolo, ficam círculos finos mais ou menos irregulares.&lt;/p></description></item><item><title>Tarte de Requeijão (Sem base)</title><link>/docs/tarte-de-requeijao-sem-base/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/tarte-de-requeijao-sem-base/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>700 gr de Requeijão&lt;br>
+1 pacote de natas&lt;br>
+1 iogurte natural&lt;br>
+7 Ovos&lt;br>
+350 gr de Açúcar&lt;br>
+1 colher de sopa custard&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Rala-se o requeijão, junta-se os ovos, o açúcar e mexe-se tudo depois introduz-se o iogurte, as natas e o custard. Mexe-se com a batedeira electrica.&lt;br>
+Coze +/- 30 minutos.&lt;/p></description></item></channel></rss>

@@ -1,67 +1,124 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sal on Receitas</title><link>/ingredients/sal/</link><description>Recent content in Sal on Receitas</description><generator>Hugo -- gohugo.io</generator><language>pt</language><atom:link href="/ingredients/sal/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo de Ananás e Cenoura</title><link>/docs/bolo-de-ananas-e-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-ananas-e-cenoura/</guid><description>Ingredientes 2 chávenas de cenoura raspada
-2 chávena de açúcar
-2 chávena de Farinha
-5 ovos inteiros
-1 colher de chá de sal fino
-1 colher de chá de baunilha líquida
-1 chávena de nozes, passas, amêndoas (picadas)
-4 colheres de chá de Soda
-1 chávena de côco ralado
-1 lata de natas
-1 lata de ananás grande (cortada em pedacinhos)
-1 chavena de óleo
-2 colheres de sopa de mel de cana</description></item><item><title>Bolo de Côco em Camadas</title><link>/docs/bolo-de-coco-em-camadas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-coco-em-camadas/</guid><description>Ingredientes Massa 1/2 Chávena de manteiga
-1 Chávena de açúcar pilé
-2/3 de uma chávena de água
-2 chávenas de farinha
-3 colheres de chá de pó royal
-2 claras
-1/2 colher de chá de sal
-1 colher de chá de baunilha Recheio 1/4 de chávena de creme (natas)
-115 g de côco ralado
-1 colher de chá de baunilha
-300 g de Açúcar refinado Modo de fazer Massa: Põe-se o açucar com a manteiga e bate-se bem, junta-se aos poucos a água batendo sempre, em seguida a baunilha a farinha, o sal e o fermento (tudo peneirado) bate-se as claras e junta-se.</description></item><item><title>Bolo de Gelado de Amendoim</title><link>/docs/bolo-gelado-de-amendoim/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-gelado-de-amendoim/</guid><description>Ingredientes 400 g de Amendoim
-250 g de Açúcar
-125 g de manteiga s/sal
-250 g de Natas
-8 gemas de ovos
-6 claras
-2 colheres de fermento em pó
-1/4 de colher de chá de sal fino
-café forte açucarado c/leite
-Modo de fazer Massa Torram-se os amendoins e depois esfrega-se num pano para se libertarem das peles e passa-se 200 g de amendoim na máquina os outros 200 g parte-se aos bocadinhos.</description></item><item><title>Bolo Prata</title><link>/docs/bolo-prata/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-prata/</guid><description>Ingredientes 450 g de Açúcar
-125 g de Manteiga
-3 Claras
-1 chávena de leite
-400 g de Farinha de Trigo
-4 colheres de chá de pó Royal
-1/2 Colher de essência de Baunilha
-3/4 de uma colher de sal fino.
-Este bolo serve para rechear.</description></item><item><title>Pastéis de Nata</title><link>/docs/pasteis-de-nata/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pasteis-de-nata/</guid><description>Ingredientes Massa 300 g de Farinha
-100 g de açúcar refinado
-100 g de Manteiga
-50 g de Banha
-1 ovo
-uma pitada de sal fino Creme 0,5 l de Leite
-1 colher de Farinha
-250 g de Açúcar
-6 Gemas
-1 colher de Manteiga Modo de Fazer Massa, peneira-se a farinha para um alguidar, põe-se em cima todas as outras coisas e amassa-se rapidamente. Não se deve cansar a massa nem batê-la.</description></item><item><title>Pickles</title><link>/docs/pickles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pickles/</guid><description>Ingredientes Legumes 1 kg de cenouras pequenas
-1 kg de cebolas pequenas
-1 kg vaginha italiana
-2 couves flor
-pimpinelas pequenas
-uns pimentos Salmoura 70 g de caré
-200 g de mostarda em pó
-2 colheres de sopa de Farinha
-6 colheres de Açúcar
-2 colheres de sal fino
-3 l de vinagre branco Modo de fazer Ferver em separado os legumes durante 5 minutos.
-Mistura-se os ingredientes da salmoura e ferve-se 5 minutos</description></item><item><title>Sonhos</title><link>/docs/sonhos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/sonhos/</guid><description>Ingredientes 5 chávenas de Farinha
-5 chávenas de Leite
-6 Ovos
-1 colher sopa de fermento Royal
-1 colher sopa de manteiga
-1 pitada de sal
-1 pau de Canela
-casca de limão</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sal on Receitas</title><link>/ingredients/sal/</link><description>Recent content in Sal on Receitas</description><generator>Hugo</generator><language>pt</language><atom:link href="/ingredients/sal/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolo de Ananás e Cenoura</title><link>/docs/bolo-de-ananas-e-cenoura/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-ananas-e-cenoura/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>2 chávenas de cenoura raspada&lt;br>
+2 chávena de açúcar&lt;br>
+2 chávena de Farinha&lt;br>
+5 ovos inteiros&lt;br>
+1 colher de chá de sal fino&lt;br>
+1 colher de chá de baunilha líquida&lt;br>
+1 chávena de nozes, passas, amêndoas (picadas)&lt;br>
+4 colheres de chá de Soda&lt;br>
+1 chávena de côco ralado&lt;br>
+1 lata de natas&lt;br>
+1 lata de ananás grande (cortada em pedacinhos)&lt;br>
+1 chavena de óleo&lt;br>
+2 colheres de sopa de mel de cana&lt;/p></description></item><item><title>Bolo de Côco em Camadas</title><link>/docs/bolo-de-coco-em-camadas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-de-coco-em-camadas/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="massa">Massa&lt;/h3>
+&lt;p>1/2 Chávena de manteiga&lt;br>
+1 Chávena de açúcar pilé&lt;br>
+2/3 de uma chávena de água&lt;br>
+2 chávenas de farinha&lt;br>
+3 colheres de chá de pó royal&lt;br>
+2 claras&lt;br>
+1/2 colher de chá de sal&lt;br>
+1 colher de chá de baunilha&lt;/p>
+ &lt;/div>
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="recheio">Recheio&lt;/h3>
+&lt;p>1/4 de chávena de creme (natas)&lt;br>
+115 g de côco ralado&lt;br>
+1 colher de chá de baunilha&lt;br>
+300 g de Açúcar refinado&lt;/p>
+ &lt;/div>
+ 
+&lt;/div>
+
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;h3 id="massa">Massa:&lt;/h3>
+&lt;p>Põe-se o açucar com a manteiga e bate-se bem, junta-se aos poucos a água batendo sempre, em seguida a baunilha a farinha, o sal e o fermento (tudo peneirado) bate-se as claras e junta-se. Leva-se ao forno brando em 2 formas untadas.&lt;/p></description></item><item><title>Bolo de Gelado de Amendoim</title><link>/docs/bolo-gelado-de-amendoim/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-gelado-de-amendoim/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>400 g de Amendoim&lt;br>
+250 g de Açúcar&lt;br>
+125 g de manteiga s/sal&lt;br>
+250 g de Natas&lt;br>
+8 gemas de ovos&lt;br>
+6 claras&lt;br>
+2 colheres de fermento em pó&lt;br>
+1/4 de colher de chá de sal fino&lt;br>
+café forte açucarado c/leite&lt;/p>
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;h3 id="massa">Massa&lt;/h3>
+&lt;p>Torram-se os amendoins e depois esfrega-se num pano para se libertarem das peles e passa-se 200 g de amendoim na máquina os outros 200 g parte-se aos bocadinhos.&lt;br>
+Batem-se 4 gemas com 125 g de açúcar depois junta-se aos poucos a farinha peneirada com fermento e o sal aos poucos batendo sempre, juntam-se os amendoins passados pela máquina. Batem-se as claras em castelo e envolve-se no preparado sem bater.&lt;br>
+Vai ao forno moderado em tabuleiro pirex untado com manteiga.&lt;/p></description></item><item><title>Bolo Prata</title><link>/docs/bolo-prata/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/bolo-prata/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>450 g de Açúcar&lt;br>
+125 g de Manteiga&lt;br>
+3 Claras&lt;br>
+1 chávena de leite&lt;br>
+400 g de Farinha de Trigo&lt;br>
+4 colheres de chá de pó Royal&lt;br>
+1/2 Colher de essência de Baunilha&lt;br>
+3/4 de uma colher de sal fino.&lt;/p>
+&lt;p>Este bolo serve para rechear.&lt;/p></description></item><item><title>Pastéis de Nata</title><link>/docs/pasteis-de-nata/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pasteis-de-nata/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="massa">Massa&lt;/h3>
+&lt;p>300 g de Farinha&lt;br>
+100 g de açúcar refinado&lt;br>
+100 g de Manteiga&lt;br>
+50 g de Banha&lt;br>
+1 ovo&lt;br>
+uma pitada de sal fino&lt;/p>
+ &lt;/div>
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="creme">Creme&lt;/h3>
+&lt;p>0,5 l de Leite&lt;br>
+1 colher de Farinha&lt;br>
+250 g de Açúcar&lt;br>
+6 Gemas&lt;br>
+1 colher de Manteiga&lt;/p>
+ &lt;/div>
+ 
+&lt;/div>
+
+&lt;h2 id="modo-de-fazer">Modo de Fazer&lt;/h2>
+&lt;p>Massa, peneira-se a farinha para um alguidar, põe-se em cima todas as outras coisas e amassa-se rapidamente. Não se deve cansar a massa nem batê-la.&lt;/p></description></item><item><title>Pickles</title><link>/docs/pickles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/pickles/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;div class="book-columns flex flex-wrap">
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="legumes">Legumes&lt;/h3>
+&lt;p>1 kg de cenouras pequenas&lt;br>
+1 kg de cebolas pequenas&lt;br>
+1 kg vaginha italiana&lt;br>
+2 couves flor&lt;br>
+pimpinelas pequenas&lt;br>
+uns pimentos&lt;/p>
+ &lt;/div>
+ 
+ &lt;div class="flex-even markdown-inner">
+ &lt;h3 id="salmoura">Salmoura&lt;/h3>
+&lt;p>70 g de caré&lt;br>
+200 g de mostarda em pó&lt;br>
+2 colheres de sopa de Farinha&lt;br>
+6 colheres de Açúcar&lt;br>
+2 colheres de sal fino&lt;br>
+3 l de vinagre branco&lt;/p>
+ &lt;/div>
+ 
+&lt;/div>
+
+&lt;h2 id="modo-de-fazer">Modo de fazer&lt;/h2>
+&lt;p>Ferver em separado os legumes durante 5 minutos.&lt;br>
+Mistura-se os ingredientes da salmoura e ferve-se 5 minutos&lt;/p></description></item><item><title>Sonhos</title><link>/docs/sonhos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/sonhos/</guid><description>&lt;h2 id="ingredientes">Ingredientes&lt;/h2>
+&lt;p>5 chávenas de Farinha&lt;br>
+5 chávenas de Leite&lt;br>
+6 Ovos&lt;br>
+1 colher sopa de fermento Royal&lt;br>
+1 colher sopa de manteiga&lt;br>
+1 pitada de sal&lt;br>
+1 pau de Canela&lt;br>
+casca de limão&lt;/p></description></item></channel></rss>
